@@ -1,0 +1,9 @@
+Variables: objetos que almacenan valores para ser utlizados luego
+
+Strings: tipo de dato que almacena cadenas de caracteres
+
+Funciones (argumentos, return): las funciones son objetos invocables que nos permiten tratar las variables, los argumentos son valores que pasamos a las funciones para su ejecución, return es una declaración para devolver los datos de una función
+
+Declaraciones if: sentencia que nos permite bifurcar la ejecución del programa según el valor de la condición evaluada
+
+Valores booleanos (true, false): tipo de datos con valores para representar las opciones verdadero o falso.
