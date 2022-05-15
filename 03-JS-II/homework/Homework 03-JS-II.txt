@@ -1,0 +1,7 @@
+For: es un bucle de programación que consta de variables iteradoras que van recorriendo ciclicamente hasta que se cumpla una condición
+
+&&: es el operador lógico AND de JS
+
+||: es el operador lógico "o" de JS
+
+!: es el operador de negación de JS
