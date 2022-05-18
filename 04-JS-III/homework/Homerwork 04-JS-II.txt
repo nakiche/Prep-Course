@@ -1,0 +1,1 @@
+arrays: contenedor de almacenamiento de de datos de cualquier tipo
