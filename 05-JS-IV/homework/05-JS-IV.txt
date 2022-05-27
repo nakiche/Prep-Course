@@ -1,0 +1,9 @@
+objeto: colección de propiedades, valores y metodos sobre algo
+
+Propiedades: clave y valor (datos, caracteristicas de un objeto)
+
+Metodo: toda funcion que esté dentro de un objeto
+
+bucle for in: bucle para recojer objetos que no cuentan con indice númerico
+
+notación de puntos vs notacion de corchetes: la notación de corchetes (cuando el nombre del atributo se almacena en una variable), o cuando el atributo contiene espacios.
