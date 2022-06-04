@@ -1,0 +1,3 @@
+Constructor: código que se ejecuta cuando creamos un nuevo objeto a partir de una clase determinada
+
+Prototype: forma que tienen las clases de agregar un metodo y dar acceso a cada objeto de la clase a ese metodo
