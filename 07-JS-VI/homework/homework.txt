@@ -1,0 +1,1 @@
+callbacks: son llamados a funciones pasadas como argumentos en otra función
