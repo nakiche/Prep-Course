@@ -1,0 +1,43 @@
+   
+
+    #body{
+      width: 800px;
+      margin: 0 auto;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+
+      
+    }
+
+    #thirdDiv{
+      width: 500 px;
+      height: 600 px;
+      background-color: orange;
+      padding: 150 px;
+      
+      border-color: red;
+      border-style: dotted;
+      border-width: thick;
+      
+    }
+    #divClass{
+      width: 500 px;
+      
+    }
+    #spanId{
+      font-size: 18px;
+      margin: 50 px;
+    }
+
+    h1{
+    color:brown;
+    }
+
+    img{
+      width: 400 px;
+    }
+
+    body {
+      background-image: url(https://thebakermama.com/wp-content/uploads/2020/05/IMG_6954-scaled.jpg);
+    }

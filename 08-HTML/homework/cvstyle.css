@@ -1,0 +1,22 @@
+   
+
+    #main{
+      width: 1000px;
+      margin: 0 auto;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      
+     font-family: monospace;
+    }
+
+    .justify
+    {
+      text-align: justify;
+    }
+
+    img {
+      width: 200px ;
+    }
+
+    
